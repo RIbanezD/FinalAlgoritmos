@@ -12,6 +12,10 @@ implementa, desde cero (sin librerias externas de estructuras de datos):
   * Cola de Prioridad (Min Heap) para la atencion de clientes, con prioridad
     VIP > ADULTO_MAYOR > REGULAR y desempate FIFO.
 
+DIAGRAMA
+-------------
+[![Architecture diagram of ribanezd/finalalgoritmos](https://gitdiagram.com/ribanezd/finalalgoritmos/diagram.png)](https://gitdiagram.com/ribanezd/finalalgoritmos?utm_source=readme&utm_medium=picture)
+
 ESTRUCTURA DEL PROYECTO
 ------------------------
   DonJuanMarket_Ruben_Ibañez/
@@ -27,3 +31,4 @@ ESTRUCTURA DEL PROYECTO
   |-- Utilidades/                         Validaciones, Formato, EstiloVisual
   |-- Diagramas UML/                      Diagramas de clases
   |-- Documentacion/                      Manual de usuario
+
