@@ -12,12 +12,8 @@ implementa, desde cero (sin librerias externas de estructuras de datos):
   * Cola de Prioridad (Min Heap) para la atencion de clientes, con prioridad
     VIP > ADULTO_MAYOR > REGULAR y desempate FIFO.
 
-DIAGRAMA
--------------
-[![Architecture diagram of ribanezd/finalalgoritmos](https://gitdiagram.com/ribanezd/finalalgoritmos/diagram.png)](https://gitdiagram.com/ribanezd/finalalgoritmos?utm_source=readme&utm_medium=picture)
-
-ESTRUCTURA DEL PROYECTO
-------------------------
+## ESTRUCTURA DEL PROYECTO
+```
   DonJuanMarket_Ruben_Ibañez/
   |-- DonJuanMarket_Ruben_Ibañez.csproj   Archivo de proyecto (.NET 8)
   |-- Program.cs                          Punto de entrada
@@ -31,4 +27,9 @@ ESTRUCTURA DEL PROYECTO
   |-- Utilidades/                         Validaciones, Formato, EstiloVisual
   |-- Diagramas UML/                      Diagramas de clases
   |-- Documentacion/                      Manual de usuario
+```
+
+DIAGRAMAS
+-------------
+[![Architecture diagram of ribanezd/finalalgoritmos](https://gitdiagram.com/ribanezd/finalalgoritmos/diagram.png)](https://gitdiagram.com/ribanezd/finalalgoritmos?utm_source=readme&utm_medium=picture)
 
