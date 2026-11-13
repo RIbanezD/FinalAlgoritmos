@@ -1,7 +1,5 @@
-================================================================================
+
   DON JUAN MARKET - Sistema de Gestion de Inventario y Atencion de Clientes
-  Proyecto Final - Procesos y Algoritmos II
-  Universidad Regional de Guatemala
 ================================================================================
 
 DESCRIPCION
